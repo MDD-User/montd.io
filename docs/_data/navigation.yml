@@ -1,18 +1,17 @@
-Modules:
-- name: Modules
-  link: /pricing/
+- name: Stacks
+  link: /stacks/
   new_window: false
   highlight: false
-- name: DBPM
-  link: /blog/
+- name: Modules
+  link: /modules/
   new_window: false
   highlight: false
 - name: About
   link: /about/
   new_window: false
   highlight: false
-- name: Contact
-  link: /contact/
+- name: Open Source Support
+  link: /support/
   new_window: false
   highlight: false
 - name: Login
