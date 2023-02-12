@@ -1,8 +1,9 @@
-- name: Pricing
+Modules:
+- name: Modules
   link: /pricing/
   new_window: false
   highlight: false
-- name: Blog
+- name: DBPM
   link: /blog/
   new_window: false
   highlight: false
